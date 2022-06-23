@@ -10,6 +10,7 @@
         public string item_name { get; set; }
         public string item_description { get; set; }
         public string food_category { get; set; }
+
         public string serving_size { get; set; }
         public string serving_size_unit { get; set; }
         public string calories { get; set; }
